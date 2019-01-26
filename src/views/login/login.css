@@ -1,0 +1,35 @@
+:local(.container) {
+  background: url(background.jpg);
+  background-size:  100%;
+  width: 100vw;
+  height: 100vh;
+}
+
+:local(.inputs) {
+  margin: 20px;
+}
+
+:local(.base) {
+  
+}
+
+:local(.submitBtn) {
+  
+}
+:local(.inp_rows) {
+  
+}
+
+:local(.authInputs) {  
+  
+}
+
+:local(.L) {
+  color:red;
+  font-size: 20px;
+}
+
+:local(.aboutUs) {
+
+  
+}
