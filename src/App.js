@@ -6,7 +6,8 @@ import Login from "./views/login/login";
 import About from "./views/about/about";
 import Profile from "./views/profile/profile";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import NotFound from "./views/404";
+import NotFound from './views/404.js';
+
 
 
 
@@ -27,7 +28,7 @@ class App extends Component {
   loggedIn(name) {
     this.setState({online:name});
   }
-
+// dfdfdfdf
   render() {
     return (
       <div>
